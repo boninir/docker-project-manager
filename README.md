@@ -14,13 +14,7 @@ Set a reverse-proxy to manage multiple projects simultaneously
 
 ```console
 git clone git@github.com:boninir/docker-project-manager.git
-```
-
-```console
 cd docker-project-manager
-```
-
-```console
 make init
 ```
 
